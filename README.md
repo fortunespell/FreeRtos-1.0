@@ -12,7 +12,7 @@ FreeRTOS: Integrated within STM32CubeIDE.
 # Getting Started
 ## 1. Clone the Repository
 ```
-git clone https://github.com/fortunespell/FreeRtos-1
+https://github.com/fortunespell/FreeRtos-1.0.git
 ```
 ## 2. Open the Project in STM32CubeIDE
  
